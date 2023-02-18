@@ -1,5 +1,5 @@
 import { useState } from "react"
-export const ItemCount = (valInicial, stock) => {
+export const ItemCount = ({valInicial, stock}) => {
         
         const [contador, setContador] = useState(valInicial)
         

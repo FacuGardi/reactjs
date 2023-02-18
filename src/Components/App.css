@@ -1,3 +1,31 @@
-.divColor {
-  background-color: aquamarine;
+
+.cardProducto {
+  width: 18rem;
+  margin: 4px;
+  background-color: antiquewhite;
+}
+
+.cardBody {
+  background-color: #A18F7B;
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+img {
+  margin-top: 3px;
+}
+
+.cardProductos {
+  margin: 4px;
+  align-items: center;
+  justify-content: center;
+}
+
+.itemDetail {
+  max-width: 540px;
+  margin-top: 20px;
+}
+
+.menuCategory {
+  color: black;
 }

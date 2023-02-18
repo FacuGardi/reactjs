@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Análisis de tu perfil de Instagram",
+        "tipoDeEntrega":"Entrega Digital" ,
+        "precio":2800 ,
+        "stock":20 ,
+        "img": "AnalisisPerfilInstagram.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre":"Calendario de Contenido" ,
+        "tipoDeEntrega":"Entrega Digital" ,
+        "precio":990,
+        "stock":20 ,
+        "img":"CalendarioContenido.jpg" 
+    },
+    {
+        "id": 3,
+        "idCategoria": 1, 
+        "nombre":"Kit Emprendedor - Diseñador" ,
+        "tipoDeEntrega":"Entrega Digital" ,
+        "precio":6400 ,
+        "stock":15 ,
+        "img": "KitEmprendedor.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 2,
+        "nombre":"Plantilla - Feed/Publicacion" ,
+        "tipoDeEntrega":"Entrega Digital" ,
+        "precio":430 ,
+        "stock":50 ,
+        "img": "PlantillaFeed.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre":"Sticker Personalizado - 1 unidad" ,
+        "tipoDeEntrega":"Entrega Digital" ,
+        "precio":1070 ,
+        "stock":30 ,
+        "img": "StickerPersonalizado1.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre":"Sticker Personalizado - 10 unidades" ,
+        "tipoDeEntrega":"Entrega Digital" ,
+        "precio":3500 ,
+        "stock":5,
+        "img": "StickerPersonalizado10.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre":"Filtro de Instagram - Interactivo" ,
+        "tipoDeEntrega":"Entrega Digital" ,
+        "precio":1815 ,
+        "stock":20 ,
+        "img": "FiltroInstagramInteractivo.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 2,
+        "nombre":"Filtro de Instagram - Diseñado" ,
+        "tipoDeEntrega":"Entrega Digital" ,
+        "precio":2200 ,
+        "stock":20,
+        "img": "FiltroInstagramDiseñado.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre":"Ilustracion Detallada- 1 persona" ,
+        "tipoDeEntrega":"Entrega Digital o Impresa" ,
+        "precio":760,
+        "stock":30 ,
+        "img": "IlustracionDetallada1.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 3,
+        "nombre":"Ilustracion detallada - 2 o mas personas" ,
+        "tipoDeEntrega":"Entrega Digital o Impresa" ,
+        "precio":960 ,
+        "stock":15,
+        "img": "IlustracionDetallada2.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 3,
+        "nombre":"Ilustracion de Mascota" ,
+        "tipoDeEntrega":"Entrega Digital o Impresa" ,
+        "precio":790 ,
+        "stock":10,
+        "img": "IlustracionMascota.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 3,
+        "nombre":"Ilustracion Lineal 1 o mas personas" ,
+        "tipoDeEntrega":"Entrega Digital o Impresa" ,
+        "precio":1200 ,
+        "stock":10,
+        "img": "IlustracionLineal.jpg"
+    }
+]
