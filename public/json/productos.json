@@ -6,7 +6,7 @@
         "tipoDeEntrega":"Entrega Digital" ,
         "precio":2800 ,
         "stock":20 ,
-        "img": "AnalisisPerfilInstagram.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/AnalisisPerfilInstagram.jpg?alt=media&token=27156527-1df2-4857-898b-9e0d66b69a4a"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "tipoDeEntrega":"Entrega Digital" ,
         "precio":990,
         "stock":20 ,
-        "img":"CalendarioContenido.jpg" 
+        "img":"https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/CalendarioContenido.jpg?alt=media&token=f635cf2c-e262-411d-87ee-028b4542a3ad" 
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "tipoDeEntrega":"Entrega Digital" ,
         "precio":6400 ,
         "stock":15 ,
-        "img": "KitEmprendedor.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/KitEmprendedor.jpg?alt=media&token=4dc87571-6b42-4180-8e1f-d6e9d38ead68"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "tipoDeEntrega":"Entrega Digital" ,
         "precio":430 ,
         "stock":50 ,
-        "img": "PlantillaFeed.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/PlantillaFeed.jpg?alt=media&token=543c67e7-79df-4f9b-883a-bae0ab4a56ba"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "tipoDeEntrega":"Entrega Digital" ,
         "precio":1070 ,
         "stock":30 ,
-        "img": "StickerPersonalizado1.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/StickerPersonalizado1.jpg?alt=media&token=ef3ba631-63aa-41a4-ab45-abb4ca25b62c"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "tipoDeEntrega":"Entrega Digital" ,
         "precio":3500 ,
         "stock":5,
-        "img": "StickerPersonalizado10.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/StickerPersonalizado10.jpg?alt=media&token=a964f30b-8c6a-4b75-9fec-473fe9322787"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "tipoDeEntrega":"Entrega Digital" ,
         "precio":1815 ,
         "stock":20 ,
-        "img": "FiltroInstagramInteractivo.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/FiltroInstagramInteractivo.jpg?alt=media&token=7718de91-a224-4100-9088-e878dc92719b"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "tipoDeEntrega":"Entrega Digital" ,
         "precio":2200 ,
         "stock":20,
-        "img": "FiltroInstagramDiseñado.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/FiltroInstagramDise%C3%B1ado.jpg?alt=media&token=8cfd937b-8cc7-408c-bcda-4728041477a5"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "tipoDeEntrega":"Entrega Digital o Impresa" ,
         "precio":760,
         "stock":30 ,
-        "img": "IlustracionDetallada1.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/IlustracionDetallada1.jpg?alt=media&token=ce6424e7-d1f9-46b5-8f0f-2c13389778f8"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "tipoDeEntrega":"Entrega Digital o Impresa" ,
         "precio":960 ,
         "stock":15,
-        "img": "IlustracionDetallada2.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/IlustracionDetallada2.jpg?alt=media&token=6639a8d9-f3a8-4bdf-9351-bdd240512c19"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "tipoDeEntrega":"Entrega Digital o Impresa" ,
         "precio":790 ,
         "stock":10,
-        "img": "IlustracionMascota.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/IlustracionMascota.jpg?alt=media&token=15d13e01-6b1c-46f7-94fe-260c6750a0df"
     },
     {
         "id": 12,
@@ -105,6 +105,6 @@
         "tipoDeEntrega":"Entrega Digital o Impresa" ,
         "precio":1200 ,
         "stock":10,
-        "img": "IlustracionLineal.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/ilustravg-react.appspot.com/o/IlustracionLineal.jpg?alt=media&token=a41843c9-544f-484e-81bb-e280234bb295"
     }
 ]

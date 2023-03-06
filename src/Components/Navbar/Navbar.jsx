@@ -1,9 +1,11 @@
 import CartWidget from "../CartWidget/CartWidget";
-import Categorias from "../Categorias/Categorias";
-import Secciones from "../Secciones/Secciones";
+import Categorias from "./Categorias/Categorias";
+import Secciones from "./Secciones/Secciones";
+import { BotonDarkMode } from "./BotonDarkMode/BotonDarkMode";
+
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg bg-light">
+        <nav className="navbar navbar-expand-lg navbarColor">
             <div className="container-fluid">
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon" />
@@ -13,7 +15,7 @@ const Navbar = () => {
                         <Secciones/>
                         <Categorias/>
                     </ul>
-                    <CartWidget cantCarrito={3}/>
+                    <CartWidget/>
                 </div>
             </div>
         </nav>
